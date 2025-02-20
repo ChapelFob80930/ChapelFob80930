@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="550" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">  
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">  
 🔭 I’m currently working on - <br> 
 • Learning to make a fullstack ml application<br><br>
 
@@ -13,7 +13,7 @@
 • Making new algorithms.<br><br>
 
 🤝 I’m looking for help with <br>
-• My portfolio website and generating 3d models with pre trained models<br><br>
+• My portfolio website and generating 3D models with pre trained models<br><br>
 
 🌱 I’m currently learning <br>
 • Machine Learning and Software Development and, dabbling a bit in php<br><br>
@@ -55,6 +55,6 @@
 ---
 
 <p align=center>
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
