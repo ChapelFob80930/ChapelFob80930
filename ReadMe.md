@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">  
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">  
 🔭 I’m currently working on - <br> 
 • Learning to make a fullstack ml application<br><br>
 
@@ -16,7 +16,7 @@
 • My portfolio website and generating 3D models with pre trained models<br><br>
 
 🌱 I’m currently learning <br>
-• Machine Learning and Software Development and, dabbling a bit in php<br><br>
+• Machine Learning, Software Development and, dabbling a bit in php<br><br>
 
 💬 Ask me about <br>
 • Video Games<br><br>
